@@ -8,19 +8,19 @@ This project focuses on leveraging the powerful data visualization and analytics
 
 In this above dashboard we have 
 
-1)Total number of students
+1) Total number of students.
 
-2)Total amount of fees amount
+2) Total amount of fees amount.
 
-3)Sum of fees by course
+3) Sum of fees by course.
 
-4)Count of course by month
+4) Count of course by month.
 
-5)Count of course by age group
+5) Count of course by age group.
 
-6)Certificate issued for the students
+6) Certificate issued for the students.
 
-7)There is a filter option too.We can filter by year,city and course
+7) There is a filter option too.We can filter by year,city and course.
 
 ## FEATURES
 
