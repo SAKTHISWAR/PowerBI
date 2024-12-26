@@ -29,10 +29,22 @@ In this above dashboard we have
 ![image](https://github.com/SAKTHISWAR/PowerBI/blob/main/5.png)
 
 
-### There are some filter options too.We can filter by year,city and course.
+### There are some filter options too.We can filter by year, city and course.
 
 ##### Example :
+
+BY YEAR 
+
 ![image](https://github.com/SAKTHISWAR/PowerBI/blob/main/2.png)
+
+BY CITY
+
+![image](https://github.com/SAKTHISWAR/PowerBI/blob/main/3.png)
+
+BY COURSE
+
+![image](https://github.com/SAKTHISWAR/PowerBI/blob/main/4.png)
+
 
 
 
