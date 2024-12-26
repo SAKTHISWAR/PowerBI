@@ -20,7 +20,6 @@ In this above dashboard we have
 
 6) Certificate issued for the students.
 
-7) There is a filter option too.We can filter by year,city and course.
 
 ## FEATURES:
 
@@ -28,6 +27,12 @@ In this above dashboard we have
 
 ##### Example :
 ![image](https://github.com/SAKTHISWAR/PowerBI/blob/main/5.png)
+
+
+### There are some filter options too.We can filter by year,city and course.
+
+##### Example :
+![image](https://github.com/SAKTHISWAR/PowerBI/blob/main/2.png)
 
 
 
