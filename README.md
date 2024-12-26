@@ -22,6 +22,14 @@ In this above dashboard we have
 
 7) There is a filter option too.We can filter by year,city and course.
 
-## FEATURES
+## FEATURES:
+
+#### By click on the specific course bar you can see that specific course's insights
+
+##### For Example:
+![image](https://github.com/SAKTHISWAR/PowerBI/blob/main/5.png)
+
+
+
 
 
