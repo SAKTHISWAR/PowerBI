@@ -24,9 +24,9 @@ In this above dashboard we have
 
 ## FEATURES:
 
-#### By click on the specific course bar you can see that specific course's insights
+### By click on the specific course bar, you can be able to see the specific course's insights
 
-##### For Example:
+##### Example:
 ![image](https://github.com/SAKTHISWAR/PowerBI/blob/main/5.png)
 
 
